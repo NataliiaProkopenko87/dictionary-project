@@ -1,3 +1,38 @@
-.Dictionary {
+.Dictionary section{
+background: white;
+padding: 30px;
+border-radius: 16px;
+box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
+margin: 20px 0;
+}
+
+.Dictionary .inputSearch {
+    color: #4A154B;
+    border-radius: 5px;
+    border: 1px solid #F4EDE4;;
+    width: 65%;
+    padding: 6px 4px;
+    margin: 2px;
+}
+
+.Dictionary .inputSubmit {
+    background: #4A154B;
+    border-color: transparent;
+    color: white;
+    width: 30%;
+    border-radius: 5px;
+    padding: 6px 4px;
+    margin: 2px;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: ease-in-out 0.15s;
+}
+.Dictionary .inputSubmit:hover {
+    background:#704771;
     
+}
+
+.Dictionary .hint {
+    font-size: 11px;
+    margin-top: 5px;
 }

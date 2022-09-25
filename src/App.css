@@ -1,13 +1,29 @@
+body{
+  background: #F4EDE4;
+}
+
 .App-header {
   margin: 30px 0;
+  
 }
 .App-logo {
   max-width: 130px;
   display: block;
   margin: 0 auto;
+  border-radius: 16px;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
 }
 
 .App-footer {
   text-align: center;
   margin: 30px 0;
+}
+.App-footer a {
+  cursor: pointer;
+  font-weight: bold;
+  color: #4A154B;
+  text-decoration: none;
+}
+.App-footer a:hover {
+  color: #704771;
 }
