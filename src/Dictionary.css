@@ -10,16 +10,16 @@ margin: 20px 0;
     color: #4A154B;
     border-radius: 5px;
     border: 1px solid #F4EDE4;;
-    width: 65%;
+    width: 75%;
     padding: 6px 4px;
-    margin: 2px;
+    margin-right: 5px;
 }
 
 .Dictionary .inputSubmit {
     background: #4A154B;
     border-color: transparent;
     color: white;
-    width: 30%;
+    width: 20%;
     border-radius: 5px;
     padding: 6px 4px;
     margin: 2px;
